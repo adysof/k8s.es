@@ -1,0 +1,27 @@
+baseURL = "http://k8s.es/"
+title = "Kubernetes"
+theme = "geekdoc"
+
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = false
+enableGitInfo = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 9
+
+[params]
+  geekdocToC = 3
+  geekdocMenuBundle = false
+  geekdocNextPrev = true
+  geekdocBreadcrumb = true
+  geekdocRepo = "https://github.com/adysof/k8s.es"
+  geekdocEditPath = "content"
+  geekdocSearch = true
+  geekdocSearchShowParent = true
+  geekdocAnchor = true
+  geekdocAnchorCopy = true
