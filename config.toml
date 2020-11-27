@@ -1,6 +1,7 @@
 baseURL = "http://k8s.es/"
 title = "Kubernetes"
 theme = "hugo-geekdoc"
+defaultContentLanguage = "es-es"
 
 pygmentsUseClasses = true
 pygmentsCodeFences = true
