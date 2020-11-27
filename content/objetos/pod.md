@@ -7,7 +7,7 @@ geekdocToC: 3
 geekdocDescription: Pod
 geekdocBreadcrumb: true
 geekdocRepo: "https://github.com/adysof/k8s.es"
-geekdocEditPath: "content"
+geekdocEditPath: "blob/main/content"
 geekdocFlatSection: true
 geekdocHidden: false
 geekdocHiddenTocTree: true
